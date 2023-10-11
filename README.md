@@ -1,3 +1,7 @@
+## Link to tutorial
+
+https://youtu.be/J9sfR6HN6BY?si=hI4lyHCZ8UVEtoIj
+
 ## Getting Started
 
 This is the completed source code for the issue tracker project we build in my Ultimate Next.js series. You can find the full course here:
